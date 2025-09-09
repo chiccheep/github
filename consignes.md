@@ -26,7 +26,7 @@ Quelques questions pour découvrir l'outil GitHub :
 
 Quelques questions sur les OS et plus particulièrement Linux :
 
-1) Qu'est ce qu'un OS ? A quoi cela sert il ?
+1) Qu'est ce qu'un OS ? A quoi cela sert il ? 
 2) Quelles sont les 3 principales familles d'OS ?
 3) Linux est-il un OS ou une famille d'OS ?
 4) Donnez moi 4 OS á noyau Linux
