@@ -32,6 +32,7 @@ Quelques questions sur les OS et plus particulièrement Linux :
 4) Donnez moi 4 OS á noyau Linux
 5) Quelle est la particularité principale des OS Linux par rapport aux autres ?
 
+
 ## Étape 1: Création d'un compte GitHub
 
 - Avez-vous déjà un compte GitHub? Si non, créez-en un sur [GitHub](https://github.com/).
